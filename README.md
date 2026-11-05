@@ -2,7 +2,7 @@
 
 Introdução
 
-O projeto ClimaBrasil tem como objetivo desenvolver um dashboard interativo para analisar as mudanças climáticas em diferentes cidades brasileiras, utilizando dados meteorológicos históricos.
+O projeto Análise de Mudanças Climáticas tem como objetivo desenvolver um dashboard interativo para analisar as mudanças climáticas em diferentes cidades brasileiras, utilizando dados meteorológicos históricos.
 
 Por meio de técnicas básicas de Ciência de Dados, o sistema permitirá visualizar e comparar informações sobre temperatura e precipitação ao longo dos anos, buscando identificar tendências, variações e possíveis alterações nos padrões climáticos.
 
