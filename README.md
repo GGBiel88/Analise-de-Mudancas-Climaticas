@@ -95,7 +95,10 @@ projeto_analise_climatica/
 ## 6. Capturas de Tela do Dashboard
 
 ### Visão Geral e KPIs (docs/print_kpis.png`)
-![alt text](print_kpis.png)
+
+<img width="1866" height="878" alt="print_kpis" src="https://github.com/user-attachments/assets/3de0ef78-3a93-48b5-9ee5-c5a5072f7f27" />
 
 ### Análise Pluviométrica e Sazonalidade (docs/print_chuvas.png`)
-![alt text](print_chuvas.png)
+
+<img width="1865" height="880" alt="print_chuvas" src="https://github.com/user-attachments/assets/03018baa-01c8-42ab-87e6-3b65b512753f" />
+
